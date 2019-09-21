@@ -25,13 +25,11 @@
 
 > MDK(keil5) project screen shot
 
-
-<img src="img/a.png" width=150px>
-
-<img src="img/b.png" width=420px>
-
-<img src="img/c.png" width=420px>
-
+<center>
+<img src="img/a.png" height=350px style="margin-right:20px; border:2px groove gray">
+<img src="img/b.png" height=350px style="margin-right:20px; border:2px groove gray">
+<img src="img/c.png" height=350px style="margin-right:20px; border:2px groove gray">
+</center>
 
 > opendev resourece
 + [opendev_home_page](http://www.openedv.com)
@@ -45,11 +43,11 @@
 
 > test shot
 
-<img src="img/1.jpg" width=300px>
-
-<img src="img/2.jpg" width=300px>
-
-<img src="img/3.jpg" width=300px>
+<center>
+<img src="img/1.jpg" height=350px style="margin-right:20px; border:2px groove gray">
+<img src="img/2.jpg" height=350px style="margin-right:20px; border:2px groove gray">
+<img src="img/3.jpg" height=350px style="margin-right:20px; border:2px groove gray">
+</center>
 
 > video demo (on vimeo)
 
