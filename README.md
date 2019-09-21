@@ -25,11 +25,12 @@
 
 > MDK(keil5) project screen shot
 
-![](img/a.png)
 
-![](img/b.png)
+<img src="img/a.png" width=150px>
 
-![](img/c.png)
+<img src="img/b.png" width=420px>
+
+<img src="img/c.png" width=420px>
 
 
 > opendev resourece
@@ -44,11 +45,11 @@
 
 > test shot
 
-![](img/1.jpg)
+<img src="img/1.jpg" width=300px>
 
-![](img/2.jpg)
+<img src="img/2.jpg" width=300px>
 
-![](img/3.jpg)
+<img src="img/3.jpg" width=300px>
 
 > video demo (on vimeo)
 
